@@ -1,3 +1,6 @@
+项目合并至 https://github.com/soulteary/gorge 
+---
+
 # gorge-file-storage
 
 Go 实现的 Phorge 统一文件存储网关，提供本地磁盘、MySQL Blob、Amazon S3 三种存储后端的 HTTP 接口。
